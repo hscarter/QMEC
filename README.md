@@ -1,4 +1,2 @@
 # QMEC
-Course taught by Stuart Wagenius
-
-This repo contains the files I created and used for this course. Assignment files will only be uploaded after they have been submitted. 
+These are my notes, thoughts, and code from working through this course taught by Dr. Stuart Wagenius in 2020. 
